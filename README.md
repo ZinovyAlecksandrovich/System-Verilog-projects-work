@@ -2,7 +2,7 @@
 
 SV projects:
 
-ECE 385 FINAL: "Arcade 8-bit Boss Gauntlet game" uses Quartus Platform, directly programed onto Intel MAX-10 FPGA. 
+ECE 385 FINAL: "Arcade 8-bit Boss Gauntlet game" uses Quartus Platform, directly programed onto Intel MAX10-DE10 Lite FPGA. 
 
 
 
